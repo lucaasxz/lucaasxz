@@ -18,14 +18,18 @@
 
 ### sobre mim
 
-```
-🧑‍💻  Gosto de resolver problemas — e de criar alguns novos no processo
-🎮  Campeão municipal de Valorant (sim, isso conta no currículo)
-☕  Produtividade diretamente proporcional à quantidade de café
-📱  Atualmente aprendendo Java & Flutter
-✨  Objetivo: escrever código que eu mesmo entenda depois de 6 meses
-🌱  Sempre em busca de colaborar em projetos open source
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🧑‍💻 | Gosto de resolver problemas — e de criar alguns novos no processo |
+| 🎮 | Campeão municipal de Valorant *(sim, isso conta no currículo)* |
+| ☕ | Produtividade diretamente proporcional à quantidade de café |
+| 📱 | Atualmente aprendendo **Java** & **Flutter** |
+| ✨ | Objetivo: escrever código que eu mesmo entenda depois de 6 meses |
+| 🌱 | Sempre em busca de colaborar em projetos open source |
+
+</div>
 
 ---
 
