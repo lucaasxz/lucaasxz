@@ -7,6 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=6366f1&center=true&vCenter=true&width=480&lines=Transformando+café+em+código+desde+sempre+☕;Campeão+municipal+de+Valorant+🎮🏆;Aprendendo+Java+%26+Flutter+em+2025+📱;Sempre+com+uma+aba+do+Stack+Overflow+aberta+😅)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=lucasviniciussilvaalmeida&color=6366f1&style=flat-square&label=visitas" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/lucasviniciussilvaalmeida?color=6366f1&style=flat-square&label=seguidores" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/lucasviniciussilvaalmeida?color=6366f1&style=flat-square&label=estrelas&affiliations=OWNER" />
 
 </div>
 
@@ -20,6 +24,7 @@
 ☕  Produtividade diretamente proporcional à quantidade de café
 📱  Atualmente aprendendo Java & Flutter
 ✨  Objetivo: escrever código que eu mesmo entenda depois de 6 meses
+🌱  Sempre em busca de colaborar em projetos open source
 ```
 
 ---
@@ -29,6 +34,22 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,dart,c,cpp,flutter,docker,git,github,vscode&theme=dark&perline=8" />
+
+</div>
+
+---
+
+### atualmente
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Estudando_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+&nbsp;
+![Flutter](https://img.shields.io/badge/Estudando_Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+&nbsp;
+![Open Source](https://img.shields.io/badge/Aberto_a_colaborações-22c55e?style=flat-square&logo=github&logoColor=white)
+&nbsp;
+![Valorant](https://img.shields.io/badge/Defendendo_o_título-FF4655?style=flat-square&logo=valorant&logoColor=white)
 
 </div>
 
@@ -47,6 +68,16 @@
 <div align="center">
 
 <img width="55%" src="https://streak-stats.demolab.com?user=lucasviniciussilvaalmeida&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+---
+
+### conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucasviniciussilvaalmeida&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
